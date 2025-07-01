@@ -1,2 +1,2 @@
-This is a text file in main branch.
-x = 10
+This is a text file in dev branch.
+x = 5
